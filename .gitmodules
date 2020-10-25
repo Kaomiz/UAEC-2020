@@ -1,0 +1,3 @@
+[submodule "image_recognition/lib/fann"]
+	path = image_recognition/lib/fann
+	url = https://github.com/libfann/fann
