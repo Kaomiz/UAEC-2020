@@ -1,3 +1,5 @@
+// libFANN training code
+
 #include <stdio.h>
 #include <stdlib.h>
 
